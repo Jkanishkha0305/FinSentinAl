@@ -1,1 +1,14 @@
+langchain
+bs4
+requests
+pandas
+numpy
+transformers
+xformers
+yfinance
+yahoofinancials
+ast
+regex
+prophet
+plotly
 
